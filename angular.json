@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "presupuesto-app"
+  "defaultProject": "presupuesto-app",
+  "cli": {
+    "analytics": "9c51d394-ac31-4b7d-a2e9-e2295bdd142f"
+  }
 }
